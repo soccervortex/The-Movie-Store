@@ -35,7 +35,7 @@ The Movie Store is a web application that allows users to search for movies, vie
 
 4. Go To [Register For API Key](https://movieapi-v2ft.onrender.com/api/register)
 
-5. Fill in your username, email and read the Tearms Of Services And Privacy Policy
+5. Fill in your username, email and read the Terms Of Services And Privacy Policy
 
 6. Then check the box and click submit
 
