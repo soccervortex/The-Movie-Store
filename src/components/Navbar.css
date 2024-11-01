@@ -1,0 +1,41 @@
+/* src/components/Navbar.css */
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #282c34;
+    padding: 15px 30px;
+    position: fixed; /* Keep it fixed at the top */
+    width: 100%; /* Full width */
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Ensure it sits on top of other content */
+    margin: 0 auto; /* Center the navbar */
+}
+
+.navbar-brand {
+    color: #61dafb; /* Light blue color */
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 10px;
+    flex: 0 0 auto; /* Prevent the brand from growing */
+}
+
+.navbar-links {
+    display: flex;
+    justify-content: center; /* Center the links */
+    max-width: fit-content;
+    flex: 1; /* Allow the links to take remaining space */
+}
+
+.navbar-links a {
+    color: #ffffff; /* White color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 15px;
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+/* Optional: Add hover effect */
+.navbar-links a:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Hover effect */
+}
