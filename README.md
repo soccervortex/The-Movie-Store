@@ -10,6 +10,22 @@ The Movie Store is a web application that allows users to search for movies, vie
 - Sort movies by various criteria (popularity, rating, etc.)
 - User authentication (login/register)
 
+## To-Do List
+- [x] Set up project structure
+- [x] Create home page layout
+- [x] Add navigation bar
+- [x] Fetch and display movie data from Movies Gallery API
+- [x] Implement movie search functionality
+- [x] Sort movies by user rating and other criteria
+- [ ] Complete user authentication (login and register pages)
+- [ ] Build admin dashboard
+   - [ ] Add feature to manage API keys
+   - [ ] Enable option to hide specific movies
+   - [ ] Show statistics (API requests, etc.)
+   - [ ] Allow account deletion
+- [x] Deploy project to GitHub and ensure it’s fork-ready
+- [x] Write detailed documentation for contributing and setting up the project
+
 ## How to Use
 1. Clone the repository: git clone https://github.com/soccervortex/the-movie-store.git
 
@@ -17,7 +33,15 @@ The Movie Store is a web application that allows users to search for movies, vie
 
 3. Install dependencies: npm install
 
-4. Start the development server: npm start
+4. Go To [Register For API Key](https://movieapi-v2ft.onrender.com/api/register)
+
+5. Fill in your username, email and ready the Tearms Of Services And Privacy Policy
+
+6. Then check the box and click submit
+
+7. Save your API Key and paste it in every const API_KEY = 'Your API Key';
+
+8. Start the development server: npm start
 
 ## Contributing
 1. Fork the repository.
