@@ -58,7 +58,7 @@ body {
     padding-top: 60px; /* Space for the navbar */
 }
 
-.movies-container, .search-container, .home-container {
+.lookup-container, .movies-container, .search-container, .home-container {
     padding: 20px;
     justify-content: space-between;
     align-items: center;

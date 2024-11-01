@@ -1,0 +1,34 @@
+/* src/components/MovieDetail.css */
+.movie-detail {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.movie-detail img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.movie-detail h1 {
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+
+.movie-detail p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.movie-detail ul {
+    list-style-type: none; /* Remove bullets */
+    padding-left: 0; /* Remove padding for a flush look */
+    margin: 10px 0; /* Optional: add margin for spacing */
+}
+
+.movie-detail li {
+    margin-bottom: 5px; /* Space between list items */
+}

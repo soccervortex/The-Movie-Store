@@ -9,8 +9,9 @@ const Navbar = () => {
             <div className="navbar-brand">The Movie Store</div>
             <div className="navbar-links">
                 <Link to="/">Home</Link>
-                <Link to="/search">Search Movies</Link>
                 <Link to="/movies">All Movies</Link>
+                <Link to="/search">Search Movies</Link>
+                <Link to="/lookup">Lookup Movies</Link>
             </div>
         </nav>
     );
