@@ -54,6 +54,11 @@ The Movie Store is a web application that allows users to search for movies, vie
 
 5. Open a pull request.
 
+## Endpoints For Movies Gallery API
+
+- Check here the Endpoints for Movies Gallery API [Endpoints Page](https://portal.fabrixapi.com/movie-gallery-api-b8sr8/api/movie-gallery-api-96evz/endpoint)
+- If you want to check it in Postman [Endpoints Postman](https://www.postman.com/xottikmw/movie-api/documentation/j48ines/movie-api?workspaceId=637011f6-87a4-4718-a6cb-0093be55eeb0)
+
 ## License
 - This project is licensed under the MIT License.
 
