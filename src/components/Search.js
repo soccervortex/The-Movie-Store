@@ -4,7 +4,7 @@ import axios from 'axios';
 import { Link } from 'react-router-dom'; // Import Link for navigation
 import './Search.css'; // Import any CSS you want to add
 
-const API_KEY = '5fJxXFD2CHCcmpT0'; // Replace with your actual API key
+const API_KEY = 'Your API Key'; // Replace with your actual API key
 
 const Search = () => {
     const [query, setQuery] = useState('');
